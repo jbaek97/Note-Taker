@@ -1,7 +1,7 @@
 # Note-Taker
 
 ## Description:
-  In a world that has switched to the digital era, an online note-taking app such as the one I made in this web applicaion is a necessary asset for students and anybody who needs to record something. This web app provides an area to add a note by pressing the "+" button. Once this is pressed a user can enter a note title and note text. Once saved these notes will bbe saved in the adjacen sidebar. This sidebar provides easy access to past notes. Clicking on these notes select a   
+  In a world that has switched to the digital era, an online note-taking app such as the one I made in this web applicaion is a necessary asset for students and anybody who needs to record something. This web app provides an area to add a note by pressing the "+" button. Once this is pressed a user can enter a note title and note text. Once saved these notes will bbe saved in the adjacen sidebar. This sidebar provides easy access to past notes. Clicking on these notes select a note and makes it active so that the user can view it. This project helped me get comfortable with creating routes and a server. I also learned how to deploy through Heroku and how to use "heroku logs --tail" to debug issues I had when pushing my project to Heroku.
 
 ## Deployed Heroku Link:
 https://shrouded-citadel-42220.herokuapp.com/
